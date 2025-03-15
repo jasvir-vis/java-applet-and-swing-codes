@@ -9,7 +9,7 @@ public class conndatabase{
 		Statement s;
 		s=con.createStatement();
 		ResultSet rs;
-		rs=s.executeQuery("Select * from students"); // students table name as your
+		rs=s.executeQuery("Select * from students"); // students table name as your's
 		int id;
 		String name;
 		while(rs.next()){
