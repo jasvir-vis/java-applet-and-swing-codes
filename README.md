@@ -8,8 +8,6 @@ Applet Programs
 
 Swing Programs
 
-Projects
-
 Database Connectivity
 
 # instalation
