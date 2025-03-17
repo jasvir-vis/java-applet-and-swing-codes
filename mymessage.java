@@ -5,7 +5,7 @@ import java.awt.*;
 public class mymessage extends JFrame
 {
   mymessage()
-  {A
+  {
     int response;
     response = JOptionPane.showConfirmDialog(null,"Are you sure want to exit","",JOptionPane.YES_NO_OPTION,JOptionPane.QUESTION_MESSAGE);
     if(response==JOptionPane.YES_OPTION)
